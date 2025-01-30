@@ -71,7 +71,6 @@ void viewAllMessages()
 		// TODO Auto-generated method stub
 		MessageQueue obj=new MessageQueue();
 		obj.acceptMessage(new Message("Jeni 1","hi"));
-		obj.acceptMessage(new Message("Kiran 2","hello"));
 		obj.acceptMessage(new Message("Durga 1","hola"));
 		obj.acceptMessage(new Message("sri 1","hola"));
 		obj.acceptMessage(new Message("Navika 1","hola"));
